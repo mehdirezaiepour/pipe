@@ -1,0 +1,1 @@
+A simple Named Pipe FIFO inter-process communication.
